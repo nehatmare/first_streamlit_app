@@ -7,7 +7,7 @@ streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
 streamlit.text('Hard-Boiled Free-Range Egg')
 
-steamlit.header('Build Your Own Fruit Smoothie')
+streamlit.header('Build Your Own Fruit Smoothie')
 
 import pandas
 
